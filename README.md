@@ -18,5 +18,6 @@ Ranging from simple interactive elements to creative animations.
 | Project Name    | Description                                                                       |
 | --------------- | --------------------------------------------------------------------------------- |
 | Tribute Website | A landing page dedicated to **APJ Abdul Kalam**, built using only **HTML & CSS**. |
+| Amazon Clone    | A static clone of **Amazon's homepage**, built using only **HTML & CSS**.         |
 
 Happy coding! 🚀
