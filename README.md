@@ -26,5 +26,6 @@ Ranging from simple interactive elements to creative animations.
 | Currency Converter      | A **dynamic currency converter** utilizing an **API**, featuring a sleek and intuitive UI built with **HTML, CSS, and JavaScript**.              |
 | Simple Calculator       | A **basic calculator** with essential arithmetic operations, built using **JavaScript, HTML, and CSS**.                                          |
 | Palindrome Checker      | A simple **Palindrome Checker** that verifies if a word or phrase reads the same forward and backward, built with **JavaScript, HTML, and CSS**. |
+| Quote Generator         | A **random quote generator** that displays inspirational quotes dynamically using **JavaScript**, built with **HTML & CSS**.                     |
 
 Happy coding! 🚀
