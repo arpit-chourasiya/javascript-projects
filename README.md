@@ -28,5 +28,6 @@ Ranging from simple interactive elements to creative animations.
 | Palindrome Checker      | A simple **Palindrome Checker** that verifies if a word or phrase reads the same forward and backward, built with **JavaScript, HTML, and CSS**. |
 | Quote Generator         | A **random quote generator** that displays inspirational quotes dynamically using **JavaScript**, built with **HTML & CSS**.                     |
 | Simple Stopwatch        | A **simple digital stopwatch** with start, stop, and reset functionalities, built using **JavaScript, HTML, and CSS**.                           |
+| Persistent To-Do List   | A **to-do list app** that saves tasks even after page reloads using **localStorage**, built with **JavaScript & HTML**.                          |
 
 Happy coding! 🚀
