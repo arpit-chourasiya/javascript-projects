@@ -1,0 +1,42 @@
+/** @format */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+.calculator {
+  height: 450px;
+  width: 300px;
+}
+
+.calculator-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cal-buttons {
+  border-radius: 20px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 2rem;
+  &:hover {
+    background-color: tomato;
+    color: white;
+  }
+}
+input {
+  width: 100%;
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+.row {
+  margin-bottom: 14px;
+}

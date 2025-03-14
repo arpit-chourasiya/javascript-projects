@@ -24,5 +24,6 @@ Ranging from simple interactive elements to creative animations.
 | Tic Tac Toe Game        | A classic **Tic Tac Toe** game implemented with **JavaScript logic**, featuring an interactive UI built with **HTML & CSS**.           |
 | Rock Paper Scissor Game | A fun and interactive **Rock Paper Scissors** game built with **JavaScript logic**, featuring dynamic UI updates using **HTML & CSS**. |
 | Currency Converter      | A **dynamic currency converter** utilizing an **API**, featuring a sleek and intuitive UI built with **HTML, CSS, and JavaScript**.    |
+| Simple Calculator       | A **basic calculator** with essential arithmetic operations, built using **JavaScript, HTML, and CSS**.                                |
 
 Happy coding! 🚀
