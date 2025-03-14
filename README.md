@@ -15,10 +15,11 @@ Welcome to **JavaScript Projects**! This repository is a collection of beginner-
 
 Ranging from simple interactive elements to creative animations.
 
-| Project Name         | Description                                                                                        |
-| -------------------- | -------------------------------------------------------------------------------------------------- |
-| Tribute Website      | A landing page dedicated to **APJ Abdul Kalam**, built using only **HTML & CSS**.                  |
-| Amazon Clone         | A static clone of **Amazon's homepage**, built using only **HTML & CSS**.                          |
-| Nature Photo Gallery | A simple and responsive **photo gallery** showcasing nature images, with **CSS hover animations**. |
+| Project Name         | Description                                                                                                       |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Tribute Website      | A landing page dedicated to **APJ Abdul Kalam**, built using only **HTML & CSS**.                                 |
+| Amazon Clone         | A static clone of **Amazon's homepage**, built using only **HTML & CSS**.                                         |
+| Nature Photo Gallery | A simple and responsive **photo gallery** showcasing nature images, with **CSS hover animations**.                |
+| UsabilityHub Clone   | A static clone of **UsabilityHub's homepage**, built using **HTML & CSS**, focusing on layout and responsiveness. |
 
 Happy coding! 🚀
