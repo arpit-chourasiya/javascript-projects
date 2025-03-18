@@ -7,7 +7,7 @@ const input = document.getElementById("itemInput");
 const storageKey = "items";
 
 function renderItems() {
-  itemsDiv.innerHTML = ""; // Use empty string instead of null
+  itemsDiv.innerHTML = "";
 
   items.forEach((item, idx) => {
     const container = document.createElement("div");
@@ -30,7 +30,7 @@ function renderItems() {
 
 function loadItems() {
   const oldItems = localStorage.getItem(storageKey);
-  items = oldItems ? JSON.parse(oldItems) : []; // Ensure items is always an array
+  items = oldItems ? JSON.parse(oldItems) : [];
   renderItems();
 }
 
